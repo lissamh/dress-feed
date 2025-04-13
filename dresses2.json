@@ -1,14 +1,8 @@
 [
   {
-    "image": "https://example.com/dress1.jpg",
+    "image": "https://raw.githubusercontent.com/lissamh/dress-feed/main/dress1.jpg",
     "name": "Floral Midi Dress",
     "price": "$65",
     "link": "https://example.com/dress1"
-  },
-  {
-    "image": "https://example.com/dress2.jpg",
-    "name": "Satin Slip Dress",
-    "price": "$59.99",
-    "link": "https://example.com/dress2"
   }
 ]
